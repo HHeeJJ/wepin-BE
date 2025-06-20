@@ -3,7 +3,7 @@
 wepin의 백엔드 API입니다.
 
 # 개발 API 문서 (Swagger)
-https://dev-api.wepin.world/swagger-ui/index.html#/
+https://dev-api.wepin.store/swagger-ui/index.html#/
 
 ## 📂 기술 스택
 
